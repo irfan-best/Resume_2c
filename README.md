@@ -6,7 +6,7 @@
 - Father Name: Shaik mahaboob subhani
 -  Email Id: bestirfan4@gmail.com
 - Phone number: 9182478894
--Address :balaji nagar old guntur
+- Address :balaji nagar old guntur
 
 #### Educational details:
 
@@ -41,5 +41,5 @@
 - Become best Coder
 
 **Interested**
--in Maths
--in Programming languages
+- in Maths
+- in Programming languages
